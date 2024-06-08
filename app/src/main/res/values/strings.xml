@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="header">Welcome to our application</string>
+    <string name="username">Please enter username</string>
+    <string name="password">Please enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+</resources>
